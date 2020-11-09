@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "qmsspkg"
-version = "0.1.2"
+version = "0.2.0"
 description = "Python package that eases the pain of concatenating Pandas categoricals!"
 authors = ["Thomas Brambor <tbrambor@gmail.com>"]
 license = "MIT"
