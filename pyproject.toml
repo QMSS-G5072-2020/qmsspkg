@@ -1,9 +1,13 @@
 [tool.poetry]
 name = "qmsspkg"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python package that eases the pain of concatenating Pandas categoricals!"
 authors = ["Thomas Brambor <tbrambor@gmail.com>"]
 license = "MIT"
+readme = "qmsspkg/README.md"
+documentation = 'https://qmsspkg.readthedocs.io'
+homepage = "https://github.com/QMSS-G5072-2020/qmsspkg"
+repository = "https://github.com/QMSS-G5072-2020/qmsspkg"
 
 [tool.poetry.dependencies]
 python = "^3.9"
